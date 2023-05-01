@@ -15,3 +15,8 @@ Project.py has the code for making images of the features and labels
 
 
 After the successful compilation of the codes we will get the prediction. 
+
+
+Youtube Links for project video:
+Part 1: https://youtu.be/bI9ZTl0VP5A
+Part 2: https://youtu.be/YE0c-95Q9CA
